@@ -16,7 +16,7 @@ const loader = document.querySelector('#loader');
 const openAiUrl = 'https://api.openai.com/v1/completions';
 const headers = {
   "Content-Type": "application/json",
-  "Authorization": `Bearer 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`
+  "Authorization": `Bearer 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`
 }
 
 search.addEventListener('click', function() {
